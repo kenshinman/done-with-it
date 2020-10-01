@@ -7,7 +7,7 @@ const AppText = ({ children, style }) => {
 
 const styles = StyleSheet.create({
 	text: {
-		color: "blue",
+		color: "#343434",
 	},
 });
 
